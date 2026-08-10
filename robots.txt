@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-na-telefon-bez-verifikacii.github.io
+Sitemap: https://kazino-na-telefon-bez-verifikacii.github.io/sitemap.xml
